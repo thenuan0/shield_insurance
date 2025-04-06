@@ -1,5 +1,5 @@
 # Shield Insurance Insights Dashboard
-## 📌 Dashboard Link: [Insert Power BI Link Here]
+## 📌 Dashboard Link: [[Insert Power BI Link Here]](https://app.powerbi.com/groups/me/reports/2cad16ef-9f41-4938-99bb-f6abae1be750/875a91dbc636a8e0e195?experience=power-bi)
 ### 🚀 Project Overview
 This Power BI dashboard provides key insights into Shield Insurance's business performance. It analyzes revenue, customer demographics, sales channels, and policy trends to support data-driven decision-making.
 
